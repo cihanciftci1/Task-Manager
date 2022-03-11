@@ -2,7 +2,7 @@
 
 It's a task board with 3 classes which are "TO DO", "IN PROGRESS", "DONE". You can add, delete and update your tasks.
 
-Made with Spring Framework, React.js and MySQL.
+Made with Spring Framework, React.js and H2.
 
 ## Home Page (with Delete Confirmation)
 ![1](https://user-images.githubusercontent.com/72259867/157708674-434b2eeb-b136-4b8e-8fad-a92ffb034044.png)
